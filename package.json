@@ -11,10 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.893.0",
-    "aws-translate-json": "0.0.3",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "swagger-jsdoc": "^7.0.0-rc.6",
+    "swagger-jsdoc": "^4.2.0",
     "swagger-ui-express": "^4.1.6"
   }
 }
